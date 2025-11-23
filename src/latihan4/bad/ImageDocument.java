@@ -1,7 +1,5 @@
 package latihan4_isp.bad;
 
-// ImageDocument masalahnya paling parah
-// Hanya butuh read dan resize, tapi dipaksa implement 3 method lain
 public class ImageDocument implements Document {
     private String filename;
 
