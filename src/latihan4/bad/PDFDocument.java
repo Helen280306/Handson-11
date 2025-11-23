@@ -1,9 +1,9 @@
 package latihan4_isp.bad;
 
-public class PdfDocument implements Document {
+public class PDFDocument implements Document {
     private String filename;
 
-    public PdfDocument(String filename) {
+    public PDFDocument(String filename) {
         this.filename = filename;
     }
 

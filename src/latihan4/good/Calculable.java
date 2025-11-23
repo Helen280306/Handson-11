@@ -1,4 +1,6 @@
-package latihan4.good;
+package latihan4_isp.good;
 
-public class Calculable {
+public interface Calculable {
+
+    void calculate(String formula);
 }

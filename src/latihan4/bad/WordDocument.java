@@ -1,7 +1,5 @@
 package latihan4_isp.bad;
 
-// WordDocument juga punya masalah yang sama
-// Bisa read, edit, print, tapi tidak bisa calculate dan resize
 public class WordDocument implements Document {
     private String filename;
 
